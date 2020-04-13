@@ -1,5 +1,5 @@
 # Pagina-Inicial-Blog
 Módulo 1 - React Codenation (HTML/CSS)
 
-![Tela](https://user-images.githubusercontent.com/61991179/79057194-f643bf00-7c34-11ea-952b-0e7719254e74.PNG)
+![Tela](https://user-images.githubusercontent.com/61991179/79083924-6f134b80-7d07-11ea-9431-5e30d14428da.PNG)
 
